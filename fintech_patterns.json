@@ -1,0 +1,201 @@
+{
+  "patterns": {
+    "top_skills": [
+      [
+        "Python",
+        5
+      ],
+      [
+        "Go",
+        4
+      ],
+      [
+        "Kubernetes",
+        3
+      ],
+      [
+        "Kafka",
+        2
+      ],
+      [
+        "JavaScript",
+        1
+      ],
+      [
+        "TypeScript",
+        1
+      ],
+      [
+        "Java",
+        1
+      ],
+      [
+        "C++",
+        1
+      ],
+      [
+        "Cloud Computing",
+        1
+      ],
+      [
+        "DevOps",
+        1
+      ]
+    ],
+    "top_levels": [
+      [
+        "Senior",
+        4
+      ],
+      [
+        "Staff",
+        3
+      ],
+      [
+        "Junior/Mid/Senior/Staff",
+        3
+      ],
+      [
+        "Junior",
+        1
+      ],
+      [
+        "Mid",
+        1
+      ]
+    ],
+    "top_locations": [
+      [
+        "Remote",
+        4
+      ],
+      [
+        "San Francisco",
+        3
+      ],
+      [
+        "New York",
+        2
+      ],
+      [
+        "Canada",
+        2
+      ],
+      [
+        "London, UK",
+        2
+      ],
+      [
+        "United States",
+        2
+      ],
+      [
+        "Remote - US",
+        2
+      ],
+      [
+        "US",
+        1
+      ]
+    ],
+    "top_traits": [
+      [
+        "culture",
+        4
+      ],
+      [
+        "Collaborative team player",
+        1
+      ],
+      [
+        "Strong problem solver",
+        1
+      ],
+      [
+        "Adaptable and flexible",
+        1
+      ],
+      [
+        "Passionate about technology",
+        1
+      ],
+      [
+        "Participation is Power",
+        1
+      ],
+      [
+        "Lean and Disciplined",
+        1
+      ],
+      [
+        "Entrepreneurial spirit",
+        1
+      ]
+    ],
+    "top_domains": [
+      [
+        "infrastructure",
+        2
+      ],
+      [
+        "Infrastructure",
+        1
+      ],
+      [
+        "Checkout",
+        1
+      ],
+      [
+        "INFRASTRUCTURE ENGINEERING",
+        1
+      ],
+      [
+        "payments, infra, fraud",
+        1
+      ]
+    ],
+    "top_roles": [
+      [
+        "Senior Director, Software Engineering (Machine Learning)",
+        2
+      ],
+      [
+        "Senior Software Engineer, Back-end (Fraud)",
+        2
+      ],
+      [
+        "Senior Software Engineer, Backend (Merchant Interfaces)",
+        2
+      ],
+      [
+        "Senior Software Engineer, Backend (PMI Integrations)",
+        2
+      ],
+      [
+        "Senior Staff Machine Learning Engineer, (ML Underwriting)",
+        2
+      ],
+      [
+        "Software Engineer II, Backend (Credit Decisioning)",
+        2
+      ],
+      [
+        "Staff Software Engineer, Back-end (Identity Engineering)",
+        2
+      ],
+      [
+        "Backend Engineer",
+        1
+      ],
+      [
+        "Software Engineer",
+        1
+      ],
+      [
+        "Infrastructure Engineer",
+        1
+      ]
+    ]
+  },
+  "ollama_analysis": "**Analysis of Fintech Company Career Pages**\n\n**1. Most In-Demand Technical Skills Across Fintech Companies**\n\nBased on the provided data, the most in-demand technical skills across fintech companies are:\n\n* Programming languages: Python, Go\n* Cloud Computing and DevOps tools: Kubernetes, Kafka\n* Data infrastructure skills: Machine Learning, Data Infrastructure\n\nThese skills are commonly mentioned across multiple fintech company career pages. However, it's essential to note that each company has its unique requirements, so it's crucial to research the specific needs of your target companies.\n\n**2. Typical Profile of a Fintech Engineer**\n\nFintech companies typically look for engineers with a strong technical background and relevant experience in areas such as:\n\n* Payments and trading domains\n* Infrastructure engineering\n* Data infrastructure\n\nEngineers with expertise in cloud computing, DevOps, and data infrastructure are also highly valued.\n\n**3. Cultural Traits Valued by Fintech Companies**\n\nFintech companies seem to value the following cultural traits:\n\n* Collaboration and teamwork (e.g., Coinbase's emphasis on diversity, equity, and inclusion)\n* Adaptability and flexibility\n* Passion for technology\n\nThese traits suggest that fintech companies prioritize a culture of innovation, inclusivity, and continuous learning.\n\n**4. What Makes Fintech Hiring Different from Other Tech Sectors?**\n\nFintech hiring differs from other tech sectors in several ways:\n\n* Emphasis on regulatory compliance and risk management\n* Focus on data security and control\n* Need for expertise in payments and trading domains\n* High demand for technical talent with a strong understanding of financial markets\n\nThese factors require fintech engineers to have a unique combination of technical skills, business acumen, and industry knowledge.\n\n**5. Advice for Backend Engineers Targeting Fintech Roles**\n\nTo increase your chances of landing a fintech role as a backend engineer:\n\n* Develop expertise in cloud computing, DevOps, and data infrastructure\n* Familiarize yourself with programming languages such as Python, Go, and JavaScript\n* Learn about machine learning and data analytics to stay competitive\n* Network with professionals in the fintech industry to gain insights into company cultures and requirements\n* Highlight your experience with regulatory compliance and risk management in your resume and cover letter\n\nBy focusing on these areas, you can increase your chances of success in the highly competitive fintech job market."
+}

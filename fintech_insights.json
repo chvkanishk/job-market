@@ -1,0 +1,268 @@
+[
+  {
+    "company": "Coinbase",
+    "software_engineering_roles": [
+      "Backend Engineer",
+      "Software Engineer",
+      "Infrastructure Engineer",
+      "Platform Engineer",
+      "Technical Lead",
+      "Senior Software Engineer"
+    ],
+    "required_skills": [
+      "Python",
+      "Go",
+      "Kafka",
+      "Kubernetes",
+      "JavaScript",
+      "TypeScript",
+      "Java",
+      "C++",
+      "Cloud Computing",
+      "DevOps"
+    ],
+    "experience_levels": [
+      "Junior",
+      "Mid",
+      "Senior",
+      "Staff"
+    ],
+    "locations": [
+      "New York",
+      "San Francisco",
+      "Remote"
+    ],
+    "domain_focus": "Infrastructure",
+    "candidate_traits": [
+      "Collaborative team player",
+      "Strong problem solver",
+      "Adaptable and flexible",
+      "Passionate about technology"
+    ],
+    "notable_observations": [
+      "High demand for technical talent in payments and trading domains",
+      "Emphasis on diversity, equity, and inclusion in the company culture"
+    ]
+  },
+  {
+    "company": "Affirm",
+    "software_engineering_roles": [
+      "Senior Director, Software Engineering (Machine Learning)",
+      "Senior Director, Software Engineering (Machine Learning)",
+      "Senior Software Engineer, Backend (Decisions and Pricing Foundations)",
+      "Senior Software Engineer, Back-end (Fraud)",
+      "Senior Software Engineer, Back-end (Fraud)",
+      "Senior Software Engineer, Backend (Merchant Interfaces)",
+      "Senior Software Engineer, Backend (Merchant Interfaces)",
+      "Senior Software Engineer, Backend (PMI Integrations)",
+      "Senior Software Engineer, Backend (PMI Integrations)",
+      "Senior Software Engineer, Checkout (PBA Core)",
+      "Senior Software Engineer, Full-Stack (Trust & Safety)",
+      "Senior Staff Machine Learning Engineer, (ML Underwriting)",
+      "Senior Staff Machine Learning Engineer, (ML Underwriting)",
+      "Software Engineer II, Backend (Credit Decisioning)",
+      "Software Engineer II, Backend (Credit Decisioning)",
+      "Software Engineer II, Backend (Fraud)",
+      "Software Engineer II, Backend (Identity Decisioning)",
+      "Software Engineer II, Backend (PMI Integrations)",
+      "Staff Software Engineer, Back-end (Identity Engineering)",
+      "Staff Software Engineer, Back-end (Identity Engineering)"
+    ],
+    "required_skills": [
+      "Machine Learning",
+      "Python",
+      "Go"
+    ],
+    "experience_levels": [
+      "Senior",
+      "Staff",
+      "Junior/Mid/Software Engineer II/Senior Software Engineer"
+    ],
+    "locations": [
+      "Remote",
+      "US",
+      "Canada",
+      "Spain",
+      "Poland"
+    ],
+    "domain_focus": "Checkout",
+    "candidate_traits": [
+      "culture"
+    ],
+    "notable_observations": null
+  },
+  {
+    "company": "Robinhood",
+    "software_engineering_roles": [
+      "Software Engineering",
+      "INFRASTRUCTURE ENGINEERING",
+      "SECURITY & CORPORATE ENGINEERING",
+      "EARLY TALENT AND INTERNSHIPS"
+    ],
+    "required_skills": [
+      "First-Principles Thinking",
+      "Data, empirical truth, and experiments to inform decisions"
+    ],
+    "experience_levels": [
+      "Senior"
+    ],
+    "locations": [
+      "Chicago, IL; Denver, CO; Westlake, TX",
+      "Luxembourg, Luxembourg",
+      "London, UK",
+      "Ljubljana, Slovenia",
+      "Menlo Park, CA; New York, NY; Washington, DC"
+    ],
+    "domain_focus": "INFRASTRUCTURE ENGINEERING",
+    "candidate_traits": [
+      "Participation is Power",
+      "Lean and Disciplined"
+    ],
+    "notable_observations": "High Performance"
+  },
+  {
+    "company": "Stripe",
+    "software_engineering_roles": [
+      "Data & Data Science",
+      "Data Platform",
+      "Infrastructure & Corporate Tech"
+    ],
+    "required_skills": [
+      "Python",
+      "Go",
+      "Kafka",
+      "Kubernetes"
+    ],
+    "experience_levels": [
+      "Junior/Mid/Senior/Staff"
+    ],
+    "locations": [
+      "Remote in Germany",
+      "Remote in Sweden",
+      "United States"
+    ],
+    "domain_focus": "payments, infra, fraud",
+    "candidate_traits": [
+      "culture"
+    ],
+    "notable_observations": null
+  },
+  {
+    "company": "Brex",
+    "software_engineering_roles": [
+      "Senior Manager, Engineering",
+      "Senior Manager, National Technology Partners",
+      "Senior Manager, Business Development (Embedded Finance)",
+      "Director, Copywriting"
+    ],
+    "required_skills": [],
+    "experience_levels": [
+      "Senior",
+      "Staff"
+    ],
+    "locations": [
+      "San Francisco",
+      "New York",
+      "Canada",
+      "United States",
+      "Brazil",
+      "Remote"
+    ],
+    "domain_focus": "Infrastructure, Platform",
+    "candidate_traits": [
+      "Entrepreneurial spirit",
+      "Impatient Optimism",
+      "Customer Obsession",
+      "Growth Mindset"
+    ],
+    "notable_observations": "High turnover rate among employees"
+  },
+  {
+    "company": "Chime",
+    "software_engineering_roles": [
+      "Senior Software Engineer, Foundation - Financial Platform",
+      "Software Engineer, Financial Platform",
+      "Senior Application Security Engineer",
+      "Lead IT Support Technician"
+    ],
+    "required_skills": [
+      "Security and Control"
+    ],
+    "experience_levels": [],
+    "locations": [
+      "Chicago",
+      "New York, NY (Enterprise)",
+      "Remote - US",
+      "San Francisco",
+      "Illinois",
+      "Remote - US"
+    ],
+    "domain_focus": "Financial Platform",
+    "candidate_traits": [
+      "Security and Control"
+    ],
+    "notable_observations": ""
+  },
+  {
+    "company": "Carta",
+    "software_engineering_roles": [
+      "Senior Software Engineer, Fund Operations",
+      "Senior Software Engineer, Fund Admin",
+      "Senior Software Engineer I, Fund Admin"
+    ],
+    "required_skills": [
+      "Financial Reporting",
+      "Python"
+    ],
+    "experience_levels": [
+      "Junior/Mid/Senior/Staff"
+    ],
+    "locations": [
+      "Waterloo, Ontario, Canada",
+      "Toronto, Ontario, Canada",
+      "San Francisco, CA; Santa Clara, CA; Seattle, WA; New York, NY"
+    ],
+    "domain_focus": "infrastructure",
+    "candidate_traits": [
+      "culture"
+    ],
+    "notable_observations": null
+  },
+  {
+    "company": "Marqeta",
+    "software_engineering_roles": [
+      "Senior Software Engineer - Backend",
+      "Software Engineer II",
+      "Staff Security Engineer - EU / UK",
+      "Staff Software Engineer - Developer Experience",
+      "Manager, Vulnerability & Data Security",
+      "Manager, Identity Security",
+      "Director of Sales Remote",
+      "Senior Manager, Technical Recruiting"
+    ],
+    "required_skills": [
+      "Backend",
+      "Kubernetes",
+      "Go",
+      "Python",
+      "Data Infrastructure"
+    ],
+    "experience_levels": [
+      "Junior/Mid/Senior/Staff"
+    ],
+    "locations": [
+      "London, UK",
+      "Toronto, Canada",
+      "Vancouver, Canada",
+      "Remote",
+      "New Remote",
+      "Warsaw, Poland",
+      "USA"
+    ],
+    "domain_focus": "infrastructure",
+    "candidate_traits": [
+      "culture"
+    ],
+    "notable_observations": ""
+  }
+]
